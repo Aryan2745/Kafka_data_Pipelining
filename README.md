@@ -1,4 +1,4 @@
-# confluent-kafka-python
+<!---# confluent-kafka-python
 
 
 This repo help us to know how to publish and consume data to and from kafka confluent in json format.
@@ -71,4 +71,4 @@ For linux or mac
 Run docker image
 ```
 docker run -it -v $(pwd)/logs:/logs  --env-file=$(pwd)/.env data-pipeline:lts
-```
+``` ---!>
